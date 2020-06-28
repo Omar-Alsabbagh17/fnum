@@ -1,4 +1,4 @@
 # AndroidGame_1
 This is a Android game
-where player will given be the  sum or subtraction of two random numbers
-Player will have to choose the correct answer for 4 different choices so that he could earn points
+where player will be given the  sum or difference of two random numbers
+Player will have to choose the correct answer from 4 different choices. Player earns points for every correct answer.
